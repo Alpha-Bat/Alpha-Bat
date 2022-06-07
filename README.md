@@ -2,7 +2,7 @@
 (22.05.09 - 22.11.11)
 > ## Class
 > 1. - [x] [Python Basic](https://github.com/Alpha-Bat/01-python-basic)
-> 2. - [ ] SQL mysql
+> 2. - [x] [SQL mysql](https://github.com/Alpha-Bat/02-SQL-mysql)
 > 3. - [ ] Pandas
 > 4. - [ ] Data Visualization
 > 5. - [ ] 머신러닝
