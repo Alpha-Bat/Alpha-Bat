@@ -9,7 +9,7 @@
 > 6. - [ ] 딥러닝
 > ## Algorithm Study
 > 1. - [x] [Stack/Queue](https://github.com/Alpha-Bat/Algorithm01)
-> 2. - [ ] Bruto Force/Binary Searc
+> 2. - [ ] Brute Force/Binary Searc
 > 3. - [ ] BFS/DFS
 > 4. - [ ] 진법변환/비트연산
 > 5. - [ ] 해시
