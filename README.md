@@ -3,8 +3,8 @@
 > ## Class
 > 1. - [x] [Python Basic](https://github.com/Alpha-Bat/01-python-basic)
 > 2. - [x] [SQL mysql](https://github.com/Alpha-Bat/02-SQL-mysql)
-> 3. - [ ] Pandas
-> 4. - [ ] Data Visualization
+> 3. - [x] [Pandas](https://github.com/Alpha-Bat/03-pandas)
+> 4. - [ ] Data Visualization matplotlib
 > 5. - [ ] 머신러닝
 > 6. - [ ] 딥러닝
 > ## Algorithm Study
