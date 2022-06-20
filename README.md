@@ -4,7 +4,7 @@
 > 1. - [x] [Python Basic](https://github.com/Alpha-Bat/01-python-basic)
 > 2. - [x] [SQL mysql](https://github.com/Alpha-Bat/02-SQL-mysql)
 > 3. - [x] [Pandas](https://github.com/Alpha-Bat/03-pandas)
-> 4. - [ ] Data Visualization matplotlib
+> 4. - [x] [Data Visualization matplotlib](https://github.com/Alpha-Bat/04-Data-Visualization-matplotlib)
 > 5. - [ ] 머신러닝
 > 6. - [ ] 딥러닝
 > ## Algorithm Study
@@ -18,7 +18,4 @@
 > 8. - [ ] 다익스트라
 > 9. - [ ] 탐욕법
 > 10. - [ ] 연결리스트/트리구조
-> ## Project
-> Soon...
-> 
 Email korealdw@naver.com
